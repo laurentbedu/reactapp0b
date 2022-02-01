@@ -1,8 +1,16 @@
 import { GenderMenu } from "../components/GenderMenu";
+import './homescreen.css';
 
 export function HomeScreen(props) {
 
     return (
-        <GenderMenu/>
+        <>
+            Header
+            <br/>
+            <GenderMenu />
+            <br/>
+            Footer
+        </>
+
     );
 }

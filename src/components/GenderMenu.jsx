@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { GenderService } from "../services/gender.service";
+import './gendermenu.css'
 
 export function GenderMenu(props) {
 
@@ -8,7 +9,7 @@ export function GenderMenu(props) {
     useEffect(() => {
         const fetchData = async () => {
             let service = new GenderService();
-            let data = await service.with("Product").getAll();
+            let data = await service.getAll();
             setGenders(data);
         }
         fetchData().catch(console.error);;
