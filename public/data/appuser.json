@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "password": "Azerty",
+        "login": "johndoe@email.com",
+        "is_active": true,
+        "customer_id": 1
+    },
+    {
+        "id": 2,
+        "password": "Qsdfgh",
+        "login": "janedoe@email.com",
+        "is_active": true,
+        "customer_id": 2
+    }
+]

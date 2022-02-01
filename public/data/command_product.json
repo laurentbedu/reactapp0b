@@ -1,0 +1,27 @@
+[
+    {
+        "command_id": 1,
+        "product_id": 5,
+        "quantity": 3
+    },
+    {
+        "command_id": 1,
+        "product_id": 4,
+        "quantity": 1
+    },
+    {
+        "command_id": 2,
+        "product_id": 3,
+        "quantity": 1
+    },
+    {
+        "command_id": 2,
+        "product_id": 1,
+        "quantity": 2
+    },
+    {
+        "command_id": 2,
+        "product_id": 2,
+        "quantity": 1
+    }
+]

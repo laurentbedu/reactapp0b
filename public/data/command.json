@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "numero": "abc",
+        "validation_date": "2022-01-15T00:00:00.000Z",
+        "customer_id": 2
+    },
+    {
+        "id": 2,
+        "numero": "abc",
+        "validation_date": "2022-01-25T00:00:00.000Z",
+        "customer_id": 1
+    }
+]
